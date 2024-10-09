@@ -1,7 +1,7 @@
 
 {
-	"sourceLanguageTag": "en",
-	"languageTags": ["en", "de"],
+	"sourceLanguageTag": "fr",
+	"languageTags": ["fr", "en"],
 	"modules": ["https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest/dist/index.js"],
 	"plugin.inlang.json": {
 		"pathPattern": "./resources/{languageTag}.json"
